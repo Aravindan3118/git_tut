@@ -1,3 +1,3 @@
-<footer>Copyright message</footer>
+<footer class="footer">Copyright message</footer>
 </body>
 </html>
