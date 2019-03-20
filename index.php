@@ -18,6 +18,7 @@ echo "second welcome message from another";
 	
 	<div class="col-md-4">
 		<img style="width: 100%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLb5mOUtzV0ObqBVuAURSvPAsC27148aFdKGc6e6Z_Z78vmMWf" alt="">
+
 	</div>
    
 </p>
